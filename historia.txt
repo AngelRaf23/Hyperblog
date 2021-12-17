@@ -3,3 +3,5 @@ Esta es la historia de Angelraf
 Angelraf tiene 31 años y nacio en Venezuela
 
 maañana nos enfocaremos en su vida laboral
+
+(esta historia pertenece al header)
